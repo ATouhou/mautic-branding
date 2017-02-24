@@ -1,5 +1,5 @@
 <?php
-namespace MauticPlugins\MauticBrandingBundle;
+namespace MauticPlugin\MauticBrandingBundle;
 
 use Mautic\PluginBundle\Bundle\PluginBundleBase;
 
